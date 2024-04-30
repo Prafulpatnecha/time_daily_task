@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 <a href ="">
   <video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
   <source src="https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/41c71b43-c79d-4ec0-90cd-0f9948e78bd6" type="video/mp4" />
-  <source src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.ogv" type="application/ogg" />
+<!--   <source src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.ogv" type="application/ogg" /> -->
 <!--   <img src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.jpg"> -->
 </video>
 <img src="https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/56c2a60a-a104-4eec-846b-af14cc45b7cd" width="22%" Height="35%">
