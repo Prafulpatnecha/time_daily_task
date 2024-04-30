@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 <hr>
 <p>
 <a href ="">
-<img src="https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/302c03e8-da60-4738-bdc8-a89d0f225a3f" width="22%" Height="35%">
+<img src="https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/56c2a60a-a104-4eec-846b-af14cc45b7cd" width="22%" Height="35%">
 </a>
 </p>
 <hr>
