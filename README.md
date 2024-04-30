@@ -18,15 +18,16 @@ samples, guidance on mobile development, and a full API reference.
 <hr>
 <p>
 <a href ="">
+<img src="https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/56c2a60a-a104-4eec-846b-af14cc45b7cd" width="22%" Height="35%">
+</a>
   <video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
-  <source src="https://github.com/Prafulpatnecha/ecommerce_application/assets/144161200/40f908f6-4435-4e12-900e-9495ba8dbd77" type="video/mp4" />
+  <source src="https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/86311063-83f8-432f-8a5e-e485af2be839" type="video/mp4" />
 <!--   <source src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.ogv" type="application/ogg" /> -->
 <!--   <img src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.jpg"> -->
 </video>
-<img src="https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/56c2a60a-a104-4eec-846b-af14cc45b7cd" width="22%" Height="35%">
-</a>
 </p>
 <hr>
+https://github.com/Prafulpatnecha/time_daily_task/assets/144161200/86311063-83f8-432f-8a5e-e485af2be839
 
 
 
